@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/Shinchan0911/reygiebot.git"
     },
-    "author": "ShinTHL09, Nlam",
+    "author": "reygie",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
